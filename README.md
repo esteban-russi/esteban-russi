@@ -1,16 +1,16 @@
-# Hi, I'm Esteban 
+<p align="center">
+  <img src="assets/retro-banner.svg" alt="ESTEBAN RUSSI - AI Engineer: ML, LLM agents and earth data" width="100%"/>
+</p>
 
-**AI Engineer at [DEPT®](https://www.deptagency.com/)** · MSc Data Science, University of Manchester · based in Manchester, UK
+Based in Manchester, I work primarily on agentic systems for companies across the UK and Europe. I enjoy designing solutions to complex problems across diverse data sources and environments. My work spans building, designing and evaluating AI systems, including developing end-to-end frameworks for their evaluation.
 
-I like problems where the data comes from the real world: satellites watching forests, sensors measuring the air we breathe, customers deciding whether to stay. My work sits where **machine learning, LLM agents and real-world data** meet, and I care just as much about the last step: turning a model into something people can actually use.
+AI is changing how we work, learn and understand the world. I want to help build it for good, with a particular focus on the environment, education and science.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-esteban--g--russi-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esteban-g-russi/)
+Let's build something together.
 
 ---
 
 ### Things I've built
-
-Most of these started with a question. Can a satellite tell us where a forest disappeared? Can you ask a city's air quality a question and get a straight answer? Can a model that predicts churn also write the email that prevents it? Here is where those questions led.
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -36,9 +36,7 @@ Before reaching for a library, I like to build the thing myself once. These note
 
 ---
 
-### What I work with
-
-The tools change with the problem, but these are the ones I keep coming back to.
+### My Stack:
 
 **ML & data** &nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -48,12 +46,18 @@ The tools change with the problem, but these are the ones I keep coming back to.
 ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 
-**LLMs & agents** &nbsp;
+**Cloud** &nbsp;
+![Google Cloud (GCP)](https://img.shields.io/badge/Google%20Cloud%20%28GCP%29-4285F4?logo=googlecloud&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4)
+
+**LLMs & Agents** &nbsp;
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?logo=langchain&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?logo=googlecloud&logoColor=white)
+![Vertex AI Agent Engine](https://img.shields.io/badge/Vertex%20AI%20Agent%20Engine-34A853?logo=googlecloud&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?logo=pydantic&logoColor=white)
 
-**Geo & earth observation** &nbsp;
+**Geo & Earth observation** &nbsp;
 ![Google Earth Engine](https://img.shields.io/badge/Earth%20Engine-4285F4?logo=google&logoColor=white)
 ![Sentinel-2](https://img.shields.io/badge/Sentinel--2-003247?logoColor=white)
 
@@ -65,4 +69,6 @@ The tools change with the problem, but these are the ones I keep coming back to.
 
 ---
 
-<sub>Interested in ML for climate and the environment, applied LLM agents, and tools that respect the people who use them. Always happy to chat, so reach out on LinkedIn.</sub>
+<sub>Interested in ML for climate and the environment, applied LLM agents, and tools that respect the people who use them. Always happy to solve problems, build, or chat, so reach out!</sub> 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-esteban--g--russi-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esteban-g-russi/)
