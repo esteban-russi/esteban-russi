@@ -6,7 +6,7 @@ Based in Manchester, I work primarily on agentic systems for companies across th
 
 AI is changing how we work, learn and understand the world: I build AI for good, with a particular focus in environment, education and science.
 
-Let's build something together.
+Let's build together!
 
 ---
 
