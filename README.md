@@ -2,9 +2,9 @@
   <img src="assets/retro-banner.svg" alt="ESTEBAN RUSSI - AI Engineer: ML, LLM agents and earth data" width="100%"/>
 </p>
 
-Based in Manchester, I work primarily on agentic systems for companies across the UK and Europe. I enjoy designing solutions to complex problems across diverse data sources and environments. My work spans building, designing and evaluating AI systems, including developing end-to-end frameworks for their evaluation.
+Based in Manchester, I work primarily on agentic systems for companies across the UK and Europe. I enjoy designing solutions to complex problems across diverse data sources and environments. My work spans building and designing AI systems, including developing end-to-end frameworks for their evaluation.
 
-AI is changing how we work, learn and understand the world. I want to help build it for good, with a particular focus on the environment, education and science.
+AI is changing how we work, learn and understand the world: I build AI for good, with a particular focus in environment, education and science.
 
 Let's build something together.
 
